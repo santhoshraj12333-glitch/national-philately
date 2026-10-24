@@ -1,0 +1,605 @@
+
+[1/65] india-independence-1947   wants: Indian Independence
+  query: India 1947 independence postage stamp
+    9	category:1947 stamps of India	File:Stamp of India - 1947 - Colnect 141341 - 1 - Asokan Capital.jpeg
+    9	category:1947 stamps of India	File:Stamp of India - 1947 - Colnect 141342 - 1 - National Flag.jpeg
+    9	category:1947 stamps of India	File:Stamp of India - 1947 - Colnect 141343 - 1 - Douglas DC 4.jpeg
+    7	category:1947 stamps of India	File:1947 India Flag 3½ annas.jpg
+    7	category:1947 stamps of India	File:India 1947 Aircraft 12 annas.jpg
+    7	category:1947 stamps of India	File:India 1947 Ashoka Lions 1 and half annas.jpg
+    3	search	File:India-Kalat-State-Baluchistan-1a-black-revenue-stamp-BLOCK-OF-4-MNH-783403 (Obverse).jpg
+    3	search	File:India-Kalat-State-Baluchistan-1a-black-revenue-stamp-BLOCK-OF-4-MNH-783403 (Reverse).jpg
+
+[2/65] constitution-of-india-1950   wants: Constitution of India
+  query: India 1950 constitution republic stamp
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 141352 - 1 - Rejoicing crowds.jpeg
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 141353 - 1 - Quill ink well and verse.jpeg
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 141354 - 1 - Ear of corn and plough.jpeg
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 141355 - 1 - Spinning wheel and cloth.jpeg
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 141782 - 1 - Views - Bodhisattva.jpeg
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 309536 - 1 - Capital of Asoka Pillar.jpeg
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 309537 - 1 - Capital of Asoka Pillar.jpeg
+    9	category:1950 stamps of India	File:Stamp of India - 1950 - Colnect 309538 - 1 - Capital of Asoka Pillar.jpeg
+
+[3/65] mahatma-gandhi-1948   wants: Mahatma Gandhi
+  query: India 1948 Mahatma Gandhi stamp
+    7	search	File:Stamp of India - 1948 - Colnect 383354 - Mahatma Gandhi - overprinted SERVICE.jpeg
+    7	search	File:Stamp of India - 1948 - Colnect 383355 - Mahatma Gandhi - overprinted SERVICE.jpeg
+    7	search	File:Stamp of India - 1948 - Colnect 383352 - Mahatma Gandhi - overprinted SERVICE.jpeg
+    7	search	File:Stamp of India - 1948 - Colnect 383353 - Mahatma Gandhi - overprinted SERVICE.jpeg
+    7	search	File:Stamp of India - 1948 - Colnect 141347 - Mahatma Gandhi.jpeg
+    7	search	File:Stamp of India - 1948 - Colnect 141346 - Mahatma Gandhi.jpeg
+    7	search	File:Stamp of India - 1948 - Colnect 141345 - Mahatma Gandhi.jpeg
+    7	search	File:Stamp of India - 1948 - Colnect 141344 - Mahatma Gandhi.jpeg
+
+[4/65] jawaharlal-nehru-1964   wants: Jawaharlal Nehru
+  query: India 1964 Jawaharlal Nehru stamp
+    9	category:1964 stamps of India	File:Stamp of India - 1964 - Colnect 371661 - Mourning of Jawaharlal Nehru 1889-1964.jpeg
+    6	search	File:Stamp of India - 1983 - Colnect 1008155 - 1 - Jawaharlal Nehru 1889-1964.jpeg
+    6	search	File:Stamp of India - 1982 - Colnect 756615 - 1 - Jawaharlal Nehru 1889-1964.jpeg
+    6	search	File:Stamp of India - 1976 - Colnect 925670 - 1 - Jawaharlal Nehru 1889-1964.jpeg
+    4	search	File:The Soviet Union 1964 CPA 3090 stamp (Commemoration of Jawaharlal Nehru (1889-1964), Indian anti-colonial nationalist, secular humanist, social democrat. Portrait of Nehru wearing Gandhi cap and sherwani).jpg
+    4	search	File:The Soviet Union 1964 CPA 3090 stamp (Commemoration of Jawaharlal Nehru (1889-1964), Indian anti-colonial nationalist, secular humanist, social democrat. Portrait of Nehru wearing Gandhi cap and sherwani).png
+    4	search	File:The Soviet Union 1964 CPA 3090 stamp (Commemoration of Jawaharlal Nehru (1889-1964), Indian anti-colonial nationalist, secular humanist, social democrat. Portrait of Nehru wearing Gandhi cap and sherwani) small resolution.jpg
+    4	search	File:1965-india-15-paise-nehru-medal-rose-stamp.jpg
+
+[5/65] bengal-tiger-1963   wants: Bengal Tiger
+  query: India tiger postage stamp definitive
+    9	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 238978 - Tiger Panthera tigris.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142032 - 1 - Birth Centenary Swami Vivekananda - Philosopher.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142033 - Hands reaching for - FAO.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142034 - Henri Dunant and Cent Emblem.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142035 - Field artillery and helicopter.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142036 - Commemoration Dadabhoy Naoroji 1825-1917.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142037 - Commemoration Annie Besant 1847-1933.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142038 - School lunch.jpeg
+
+[6/65] indian-elephant-1965   wants: Indian Elephant
+  query: India elephant postage stamp definitive
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 145588 - Plucking Tea.jpeg
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 239043 - Commemoration Jamsetji Tata - Industrialist.jpeg
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 239044 - 20th Int ICC Congress - ICC Emblem and Globe.jpeg
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 239045 - Centenary ITU - ITU Emblem.jpeg
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 239046 - 1st Death Anniversery of Jawahar Nehru - Everlasting Flame.jpeg
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 239047 - Indian Mount Everest Expedition - Climbers on Summit.jpeg
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 239048 - International Cooperation Year.jpeg
+    2	category:1965 stamps of India	File:Stamp of India - 1965 - Colnect 361610 - 1 - Death Centenary of Abraham Lincoln 1809-1865.jpeg
+
+[7/65] indian-peacock-1963   wants: Indian Peacock
+  query: India peacock postage stamp definitive
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142032 - 1 - Birth Centenary Swami Vivekananda - Philosopher.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142033 - Hands reaching for - FAO.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142034 - Henri Dunant and Cent Emblem.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142035 - Field artillery and helicopter.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142036 - Commemoration Dadabhoy Naoroji 1825-1917.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142037 - Commemoration Annie Besant 1847-1933.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142038 - School lunch.jpeg
+    2	category:1963 stamps of India	File:Stamp of India - 1963 - Colnect 142039 - 15th Anniv of Declaration of Human Rights - Eleanor Roosevel.jpeg
+
+[8/65] aryabhata-1975   wants: Aryabhata Satellite
+  query: India Aryabhata satellite postage stamp 1975
+    9	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 372793 - Aryabhata Satellite.jpeg
+    2	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 145632 - Himalayan Monal Lophophorus impejanus.jpeg
+    2	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 145633 - 1 - Tiger Panthera tigris.jpeg
+    2	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 145634 - 1 - Horse with Rider.jpeg
+    2	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 145635 - 1 - Virgin Crane Anthropoides virgo.jpeg
+    2	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 145636 - 1 - Veena.jpeg
+    2	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 145637 - 1 - Himalayas.jpeg
+    2	category:1975 stamps of India	File:Stamp of India - 1975 - Colnect 145638 - 650th Death Anniv Ameer Khusrau 1253 - 1325 - Poet.jpeg
+
+[9/65] mangalyaan-2014   wants: Mangalyaan Mars Orbiter
+  query: India Mangalyaan Mars Orbiter Mission stamp
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477209 - Food Corporation of India.jpeg
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477210 - International Year of Crystallography.jpeg
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477211 - Indian Museum Kolkata.jpeg
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477212 - Indian Museum Kolkata.jpeg
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477213 - Indian Museum Kolkata.jpeg
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477215 - Indian Museum Kolkata.jpeg
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477216 - Jagjit Singh.jpeg
+    2	category:2014 stamps of India	File:Stamp of India - 2014 - Colnect 477217 - Jagjit Singh.jpeg
+
+[10/65] taj-mahal-2004   wants: Taj Mahal
+  query: India Taj Mahal postage stamp
+    9	category:2004 stamps of India	File:Stamp of India - 2004 - Colnect 158552 - Taj Mahal.jpeg
+    9	category:2004 stamps of India	File:Stamp of India - 2004 - Colnect 799714 - Taj Mahal.jpeg
+    4	search	File:Replica Taj Mahal lamp presented to Jacqueline Kennedy during her state visit to India.jpg
+    3	search	File:Bhopal State Postage Service - 4 annas - Taj Mahal and Benazir Palaces.png
+    3	search	File:At Taj Mahal 5949524474 4b10cd64d0 o.jpg
+    3	search	File:At Taj Mahal 5949524484 74be1c5c8b o.jpg
+    3	search	File:At Taj Mahal 5949580466 db87c00948 o.jpg
+    3	search	File:At Taj Mahal 5949580464 6e962c029b o.jpg
+
+[11/65] asian-games-1982   wants: Asian Games Delhi
+  query: India 1982 Asian Games stamp
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169294 - IX Asian Games Delhi 1982 - Wrestling.jpeg
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169296 - IX Asian Games Delhi 1982 - Archery.jpeg
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169298 - IX Asian Games Delhi 1982 - Cycling.jpeg
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169299 - IX Asian Games Delhi 1982 - Javelin.jpeg
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169300 - IX Asian Games Delhi 1982 - Discus throw.jpeg
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169301 - IX Asian Games Delhi 1982 - Football.jpeg
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169302 - IX Asian Games Delhi 1982 - Yachting.jpeg
+    10	category:1982 stamps of India	File:Stamp of India - 1982 - Colnect 169303 - IX Asian Games Delhi 1982 - Rowing.jpeg
+
+[12/65] sachin-tendulkar-2013   wants: Sachin Tendulkar
+  query: India Sachin Tendulkar postage stamp 2013
+    9	category:2013 stamps of India	File:Stamp of India - 2013 - Colnect 477796 - Sachin Tendulkar.jpeg
+    9	category:2013 stamps of India	File:Stamp of India - 2013 - Colnect 477797 - Sachin Tendulkar.jpeg
+    9	category:2013 stamps of India	File:Stamp of India - 2013 - Colnect 477798 - Sachin Tendulkar.jpeg
+    9	category:2013 stamps of India	File:Stamp of India - 2013 - Colnect 477799 - Sachin Tendulkar.jpeg
+    9	category:2013 stamps of India	File:Stamp of India - 2013 - Colnect 477800 - Sachin Tendulkar.jpeg
+    7	category:2013 stamps of India	File:Sachin Tendulkar 2013 stamp of India 2.jpg
+    7	category:2013 stamps of India	File:Sachin Tendulkar 2013 stamp of India.jpg
+    2	category:2013 stamps of India	File:Stamp of India - 2013 - Colnect 410517 - 100 years of Indian Science Congress Association.jpeg
+
+[13/65] penny-black-1840   wants: Penny Black
+  query: Penny Black 1840 postage stamp
+    5	search	File:Penny Black, world's first postage stamp, 1840.jpg
+    5	search	File:Penny-black-stamp-great-britain-circa-1840.jpg
+    5	search	File:Penny Black. 1840. Edinburgh to Stewarton mail.jpg
+    5	search	File:GB1840 PennyBlackNK.JPG
+    4	search	File:"Penny Black" postage stamps MET DP328201.jpg
+    4	search	File:Stamp GB Penny Black plate reconstruction.jpg
+    4	search	File:"Penny Black" postage stamps MET SF2002 236 1 img2.jpg
+    4	search	File:Penny black.jpg
+
+[14/65] penny-red-1841   wants: Penny Red
+  query: Penny Red 1841 postage stamp
+    7	category:1841 stamps of the United Kingdom	File:PennyRed BB.jpg
+    6	category:1841 stamps of the United Kingdom	File:Queen Victoria Two-Penny-Blue.jpg
+    4	search	File:"Penny Red Brown" postage stamps MET SF2002 236 3 img1.jpg
+    4	search	File:"Penny Red Brown" postage stamps MET SF2002 236 3 img2.jpg
+    1	search	File:Unused block of forty-two "Penny Red-Brown" postage stamps of Queen Victoria MET SF2002 399 11 img1.jpg
+    1	search	File:Unused block of forty-two "Penny Red-Brown" postage stamps of Queen Victoria MET SF2002 399 11 img2.jpg
+    -1	category:1841 stamps of the United Kingdom	File:GB 2d Blue Postage Stamp.jpg
+    -1	category:1841 stamps of the United Kingdom	File:Stamp - GB QV 2d blue.jpg
+
+[15/65] coronation-1953   wants: Coronation of Elizabeth II
+  query: Great Britain 1953 coronation stamp Elizabeth
+    7	category:1953 stamps of the United Kingdom	File:Stamp UK 1953 1shilling3d coronation.jpg
+    6	category:1953 stamps of the United Kingdom	File:GB Elizabeth Coronation Stamp.jpg
+    6	search	File:Stamp of Perlis - 1953 - Colnect 699428 - Coronation of Queen Elizabeth II.jpeg
+    6	search	File:Stamp of Selangor - 1953 - Colnect 399659 - Coronation of Queen Elizabeth II.jpeg
+    6	search	File:Stamp of Sarawak - 1953 - Colnect 306213 - Coronation of Queen Elizabeth II.jpeg
+    6	search	File:Stamp of Seychelles - 1953 - Colnect 267749 - Coronation.jpeg
+    4	search	File:Malta-Queen-Elizabeth-II-Coronation-Stamp-1953.jpg
+    4	search	File:Queen Elizabeth II Coronation Stamp HK 1953.jpg
+
+[16/65] churchill-1965   wants: Winston Churchill
+  query: Great Britain 1965 Winston Churchill stamp
+    3	search	File:Winston Churchill and Bernard Baruch talk in car in front of Baruch's home, 14 April 1961.jpg
+    -4	search	File:American and Allied leaders at international conferences - NARA - 292630.jpg
+    -4	search	File:American and Allied leaders at international conferences - NARA - 292630.tif
+
+[17/65] london-2012-olympics   wants: London 2012 Olympics
+  query: Great Britain 2012 Olympic Games postage stamp
+
+[18/65] washington-1847   wants: George Washington 1847
+  query: United States 1847 Washington postage stamp
+    7	category:1847 stamps of the United States	File:George Washington 1847 issue.jpg
+    7	category:1847 stamps of the United States	File:Washington 1847 Issue-10c.jpg
+    6	category:1847 stamps of the United States	File:First US Postage stamps of 1847.tiff
+    6	category:1847 stamps of the United States	File:First US stamp Franklin 5c 1847 issue.jpg
+    6	category:1847 stamps of the United States	File:First US Stamps 1847 Issue.jpg
+    6	category:1847 stamps of the United States	File:Franklin 1847 Issue-5c.jpg
+    6	category:1847 stamps of the United States	File:Franklin SC1 1847.jpg
+    6	category:1847 stamps of the United States	File:Selo postal, Estados Unidos, 1847.jpg
+
+[19/65] apollo-11-1969   wants: Apollo 11 Moon Landing
+  query: United States 1969 Apollo 11 moon stamp
+    7	category:1969 stamps of the United States	File:Apollo VIII 1969 Issue-6c.jpg
+    6	category:1969 stamps of the United States	File:Apollo 11 crew unveiling stamp (69-HC-1119).jpg
+    6	category:1969 stamps of the United States	File:Apollo 11 FDC.jpg
+    6	category:1969 stamps of the United States	File:Scott 1371, Apollo 8.jpg
+    6	search	File:Stamp of Seychelles - 1976 - Colnect 494195 - Kennedy and Apollo 11 Moon Landing 1969.jpeg
+    6	search	File:Stamp of Ajman - 1969 - Colnect 651803 - Apollo 11.jpeg
+    6	search	File:Stamp of Ajman - 1969 - Colnect 652672 - Apollo 11 landing module.jpeg
+    6	search	File:Stamp of Ajman - 1969 - Colnect 949976 - Apollo 11 - Armstrong Aldrin Collins.jpeg
+
+[20/65] us-bicentennial-1976   wants: American Bicentennial
+  query: United States 1976 bicentennial postage stamp
+    7	category:1976 stamps of the United States	File:Colorado Bicentennial 13c 1976 issue.jpg
+    7	category:1976 stamps of the United States	File:Franklin 1776 Bicentennial 13c 1976 issue.JPG
+    6	category:1976 stamps of the United States	File:13-cent Declaration strip of four 1976 U.S. stamp.1.jpg
+    6	category:1976 stamps of the United States	File:1976 airmail stamp C89.jpg
+    6	category:1976 stamps of the United States	File:1976 airmail stamp C90.jpg
+    6	category:1976 stamps of the United States	File:Chemistry 13c 1976 issue U.S. stamp.jpg
+    6	category:1976 stamps of the United States	File:Christmas - Copley Nativity 13c 1976 issue U.S. stamp.jpg
+    6	category:1976 stamps of the United States	File:Christmas - Currier Winter Pastime 13c 1976 issue U.S. stamp.jpg
+
+[21/65] elvis-1993   wants: Elvis Presley
+  query: Elvis Presley 1993 United States postage stamp
+
+[22/65] los-angeles-1984   wants: Los Angeles Olympics 1984
+  query: United States 1984 Olympic Games postage stamp
+    4	search	File:President Ronald Reagan and Nancy Reagan Attending The 1984 Summer Olympic Games Los Angeles California - DPLA - 062d377339e2efeae3e49bdb7cb7e3df.jpg
+    3	search	File:ROM 1984 MiNr4063 mt B002.jpg
+    3	search	File:LIY 1984 MiNr1381A pm B002.jpg
+    -4	search	File:NIC 1983 MiNrBl0147 pm B002b.jpg
+    -4	search	File:LIY 1983 MiNr1163 pm B002.jpg
+
+[23/65] france-ceres-1849   wants: Ceres
+  query: France 1849 Ceres postage stamp
+    3	search	File:Ceres-emission-1.jpg
+    3	search	File:Ceres 20c noir 01.jpg
+    3	search	File:003-ceres-40c.jpg
+    3	search	File:Ceres 20c noir.jpg
+    -3	search	File:France timbre Cérès 20c noir 1849.jpg
+    -3	search	File:Frankreich 1849 25 Centime.jpg
+    -3	search	File:Frankreich 1849 10 Centime.jpg
+    -3	search	File:Selo postal, França, 1849.jpg
+
+[24/65] eiffel-tower   wants: Eiffel Tower
+  query: France Eiffel Tower postage stamp
+    4	search	File:WWII- Europe- France; "American soldiers watch as the Tricolor flies from the Eiffel Tower again" - DPLA - 5bbd97aaa71504565fc41948a13ff5e1.gif
+    4	search	File:WWII, Europe, France, "American soldiers watch as the Tricolor flies from the Eiffel Tower again" - NARA - 196289.jpg
+    4	search	File:WWII, Europe, France, "American soldiers watch as the Tricolor flies from the Eiffel Tower again" - NARA - 196289.tif
+    3	search	File:American soldiers watch as the Tricolor flies from the Eiffel Tower again.jpg
+    3	search	File:The Soviet Union 1990 CPA 6278 stamp ('Charter of Paris for a New Europe' Signing of European Conventional Arms Treaty. Globe, Eiffel Tower and Flags).png
+    1	search	File:The Soviet Union 1968 CPA 3688 stamp (Silver Medal, Eiffel Tower and Arc de Triomphe (Philatec Exhibition, Paris, France, 1964)).png
+    1	search	File:The Soviet Union 1968 CPA 3688 stamp (Silver Medal, Eiffel Tower and Arc de Triomphe (Philatec Exhibition, Paris, France, 1964)).jpg
+    -2	search	File:Stamp of Brazil - 1973 - Colnect 263897 - Alberto Santos Dumont.jpeg
+
+[25/65] french-revolution-1989   wants: French Revolution Bicentennial
+  query: France 1989 French Revolution bicentennial stamp
+    5	search	File:Stamp of Seychelles - 1989 - Colnect 992266 - Raising French flag Seychelles 1791.jpeg
+    5	search	File:Stamp of Seychelles - 1989 - Colnect 836611 - Raising French flag Seychelles 1791.jpeg
+    5	search	File:Stamp of Albania - 1989 - Colnect 367772 - Storming of the Bastille.jpeg
+    5	search	File:Stamp of Seychelles - 1989 - Colnect 836609 - Flags.jpeg
+    5	search	File:Stamp of Seychelles - 1989 - Colnect 836610 - Storming of the Bastille.jpeg
+    5	search	File:Stamp of Albania - 1989 - Colnect 367773 - Departure of the Volunteers in the war against Austria.jpeg
+    3	search	File:1989 CPA 6089.jpg
+    3	search	File:1989 CPA 6087.jpg
+
+[26/65] france-1998-world-cup   wants: FIFA World Cup 1998
+  query: France 1998 World Cup postage stamp
+    5	search	File:Stamp of Albania - 1998 - Colnect 186190 - Stylized player in French country colors.jpeg
+    5	search	File:Stamp of Albania - 1998 - Colnect 186189 - Stylized player in French country colors.jpeg
+    5	search	File:Stamp of Albania - 1998 - Colnect 186191 - Mascot Footix.jpeg
+    -2	search	File:Stamp of India - 2015 - Colnect 637813 - Istana.jpeg
+    -2	search	File:Stamp of India - 2015 - Colnect 637814 - Rashtrapathi Bhavan.jpeg
+    -2	search	File:Stamp of India - 2013 - Colnect 419195 - Aditya Vikram Birla.jpeg
+    -2	search	File:Stamp of India - 2013 - Colnect 419197 - C Achyutha Menon.jpeg
+    -2	search	File:Stamp of India - 2013 - Colnect 419198 - Kerala Legistative Assembly.jpeg
+
+[27/65] charles-de-gaulle   wants: Charles de Gaulle
+  query: France Charles de Gaulle postage stamp
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653907 - Death of General Charles de Gaulle.jpeg
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653902 - Death of General Charles de Gaulle.jpeg
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653904 - Death of General Charles de Gaulle.jpeg
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653908 - Death of General Charles de Gaulle.jpeg
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653901 - Death of General Charles de Gaulle.jpeg
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653906 - Death of General Charles de Gaulle.jpeg
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653905 - Death of General Charles de Gaulle.jpeg
+    5	search	File:Stamp of Ajman - 1972 - Colnect 653903 - Death of General Charles de Gaulle.jpeg
+
+[28/65] german-reunification-1990   wants: German Reunification
+  query: Germany 1990 reunification postage stamp
+
+[29/65] munich-1972-olympics   wants: Munich 1972 Olympics
+  query: Germany 1972 Munich Olympic Games stamp
+    5	search	File:Olympic Games - Munich 1972, Germany - 1971 stamps of Sharjah 24.jpg
+    5	search	File:1972 stamps of Umm al-Quwain - 30 stamps of Winners of the Summer Olympic Games Munich II Germany.jpg
+    5	search	File:Emblem-of-the-Games-in-Munich Olympic Games - Munich 1972, Germany - 1971 stamps of Sharjah 04.jpg
+    5	search	File:Emblem-of-the-Games-in-Munich Olympic Games - Munich 1972, Germany - 1971 stamps of Sharjah 03.jpg
+    5	search	File:Emblem-of-the-Games-in-Munich Olympic Games - Munich 1972, Germany - 1971 stamps of Sharjah 02.jpg
+    5	search	File:Emblem-of-the-Games-in-Munich Olympic Games - Munich 1972, Germany - 1971 stamps of Sharjah 01.jpg
+    5	search	File:Olympic Games - Munich 1972, Germany - 1971 stamps of Sharjah 04.jpg
+    5	search	File:Olympic Games - Munich 1972, Germany - 1971 stamps of Sharjah 29.jpg
+
+[30/65] germany-2006-world-cup   wants: FIFA World Cup 2006
+  query: Germany 2006 FIFA World Cup postage stamp
+    6	category:2006 stamps of Germany	File:DPAG-20060106-Halle.jpg
+    6	category:2006 stamps of Germany	File:DPAG 2006 2525 200 Jahre Blindenschule Berlin, 150 Jahre Nikolauspflege.jpg
+    6	category:2006 stamps of Germany	File:DPAG-20060402-AlbrechtDuerer.jpg
+    6	category:2006 stamps of Germany	File:DPAG-20060404-UniFrankfurtOder.jpg
+    6	category:2006 stamps of Germany	File:Brooklyn Bridge poŝtmarko DE 2006.jpg
+    6	category:2006 stamps of Germany	File:DPAG-20060704-Rembrandt.jpg
+    6	category:2006 stamps of Germany	File:DPAG-20060902-HauptmannKoepenick.jpg
+    6	category:2006 stamps of Germany	File:DPAG-20061006-TagderBriefmarke.jpg
+
+[31/65] brandenburg-gate   wants: Brandenburg Gate
+  query: Germany Brandenburg Gate postage stamp
+    4	search	File:President Reagan giving a speech at the Berlin Wall, Brandenburg Gate, Federal Republic of Germany. June 12, 1987.jpg
+    4	search	File:Photograph of President Reagan giving a speech at the Berlin Wall, Brandenburg Gate, Federal Republic of Germany - NARA - 198585.tif
+    4	search	File:Photograph of President Reagan giving a speech at the Berlin Wall, Brandenburg Gate, Federal Republic of Germany - NARA - 198585.jpg
+    3	search	File:The Soviet Union 1969 CPA 3804 stamp (East German Flag and Arms, TV Tower and Brandenburg Gate).png
+    3	search	File:The Soviet Union 1969 CPA 3804 stamp (East German Flag and Arms, TV Tower and Brandenburg Gate).jpg
+    3	search	File:Barricades at the Brandenburg Gate 1961.jpg
+    3	search	File:President Ronald Reagan Making His Berlin Wall Speech at Brandenburg Gate West Berlin - DPLA - dce9b53e6ef9b7e01d184ce61f78871b.jpg
+    3	search	File:President Ronald Reagan Making His Berlin Wall Speech at Brandenburg Gate West Berlin - DPLA - e5f32e4ef48546eeda83f863a08fef32.jpg
+
+[32/65] sachsen-dreier-1850   wants: Sachsen Dreier
+  query: Saxony 1850 postage stamp first German stamp
+    4	search	File:Sachsen 1850 forgery.jpg
+    4	search	File:Sachsen 1850 3pf ex Ferrari.jpg
+    -2	search	File:Sachsen-dreier.jpg
+    -2	search	File:Sachsen-Dreier-6x.jpg
+    -2	search	File:Sachsen-Dreier-20x.jpg
+    -2	search	File:DDR 1950 260 Briefmarkenausstellung Debria Sachsen Dreier.jpg
+    -4	search	File:DBP 1978 980,981 ZD Tag der Briefmarke.jpg
+    -4	search	File:DBP 1978 981 Tag der Briefmarke.jpg
+
+[33/65] japan-dragon-1871   wants: Dragon
+  query: Japan 1871 dragon postage stamp
+    -3	search	File:Japan 1871 500 mon Inverted Centre.jpg
+    -3	search	File:Japan 1871 100M.jpg
+    -3	search	File:Japan 1871 48M.jpg
+    -4	search	File:Ryu Stamp 48mon.JPG
+
+[34/65] japan-sakura   wants: Cherry Blossom
+  query: Japan cherry blossom sakura postage stamp
+    -1	search	File:Fuji and Sakura 20sen stamp.JPG
+    -7	search	File:Japan 1961 Ume.jpg
+    -7	search	File:Japan 1961 Yamazakura.jpg
+
+[35/65] tokyo-1964-olympics   wants: Tokyo 1964 Olympics
+  query: Japan 1964 Tokyo Olympic Games stamp
+    7	search	File:Stamp of Afghanistan - 1964 - Colnect 495580 - Summer Olympics 1964 Tokyo.jpeg
+    6	search	File:Stamp of Ajman - 1969 - Colnect 462055 - Tokyo 1964 Gymnastics.jpeg
+    5	search	File:Stamp of Umm al-Quwain-1964-XVIII-Olympic-Games-1964-Tokyo-perfin.jpg
+    5	search	File:Stamp of Umm al-Quwain-1964-XVIII-Olympic-Games-1964-Tokyo.jpg
+    5	search	File:Stamp of Congo, Republic (Brazzaville) - 1964 - Colnect 496108 - Volleyball.jpeg
+    5	search	File:Stamp of Afghanistan - 1964 - Colnect 483934 - Hurdling.jpeg
+    5	search	File:Stamp of Afghanistan - 1964 - Colnect 483936 - Wrestling.jpeg
+    5	search	File:Stamp of Afghanistan - 1964 - Colnect 483937 - Football.jpeg
+
+[36/65] great-wave-kanagawa   wants: The Great Wave off Kanagawa
+  query: Japan Hokusai Great Wave postage stamp
+
+[37/65] mount-fuji   wants: Mount Fuji
+  query: Japan Mount Fuji postage stamp
+    4	search	File:Mount Fujiyama, Japan as seen from the USS SOUTH DAKOTA in Tokyo Bay. - NARA - 520993.tif
+    3	search	File:Stamp mount fuji carmine 6 sen.jpg
+    3	search	File:Stamp mount fuji blue 10 sen.jpg
+    3	search	File:Fuji and Sakura 20sen stamp.JPG
+    3	search	File:Fujishika.JPG
+    3	search	File:US Bombers near Mount Fuji.jpg
+    -1	search	File:Stamp of Ajman - 1971 - Colnect 922814 - Asagiri Heights Japan.jpeg
+    -3	search	File:United States Space Forces Japan emblem.png
+
+[38/65] china-large-dragon-1878   wants: Large Dragons
+  query: China 1878 large dragon postage stamp
+    7	category:1878 stamps of China	File:Big Dragon stamp 1-candareen 1878.PNG
+    7	category:1878 stamps of China	File:Big Dragon stamp 3-candareen 1878.PNG
+    7	category:1878 stamps of China	File:Big Dragon stamp 5-candareen 1878.PNG
+    7	category:1878 stamps of China	File:Esssay for the 1878-83 The Large Dragon Issue stamps of China.jpg
+    6	category:1878 stamps of China	File:Big Dragon stamp 3-candareen.jpg
+    6	category:1878 stamps of China	File:Big Dragon stamp 5-candareen.jpg
+    6	category:1878 stamps of China	File:Big Dragon stamps.jpg
+
+[39/65] giant-panda   wants: Giant Panda
+  query: China giant panda postage stamp
+    0	category:1963 stamps of China	File:Stamp of China - 1963 - Scott 732-736 - Games of the New Emerging Forces.jpg
+    -1	search	File:Stamp of Belarus - 2012 - Colnect 257838 - 20th Anniv of Diplomatic Relations Belarus - PR China.jpeg
+    -4	search	File:3312-I. 75 лет дипломатическим отношениям Российской Федерации и Китайской Народной Республики. Панда Катюша.jpg
+    -4	search	File:RUSMARKA-3312list.jpg
+    -4	search	File:RUSMARKA-3312.jpg
+
+[40/65] great-wall   wants: Great Wall
+  query: China Great Wall postage stamp
+    4	search	File:Susan Ford tours the Great Wall in China - NARA - 7062602.jpg
+    4	search	File:Nixon visit the Great Wall of China.jpg
+    4	search	File:President Richard Nixon and Mrs. Pat Nixon visit the Great Wall of China and the Ming tombs.jpg
+    4	search	File:President and Mrs. Nixon visit the Great Wall of China.jpg
+    4	search	File:Guard standing watch at the Great Wall of China - NARA - 194423.tif
+    4	search	File:Great wall of China eastern location.jpg
+    4	search	File:President and Mrs. Nixon at the Great Wall of China - NARA - 194420.tif
+    4	search	File:President Ronald Reagan and Nancy Reagan Visit The Great Wall During Their Trip to The People'S Republic of China - DPLA - 8e0e5f396fc43871186d50df616b420c.jpg
+
+[41/65] beijing-2008-olympics   wants: Beijing 2008 Olympics
+  query: China 2008 Beijing Olympic Games stamp
+    6	search	File:Stamp of Armenia - 2008 - Colnect 195724 - Olympic Games Beijing - 2008.jpeg
+    6	search	File:Stamp of Armenia - 2008 - Colnect 195725 - Olympic Games Beijing - 2008.jpeg
+    6	search	File:Stamp of India - 2008 - Colnect 157979 - Beijing 2008 Olympics.jpeg
+    6	search	File:Stamp of India - 2008 - Colnect 157980 - Beijing 2008 Olympics.jpeg
+    6	search	File:Stamp of India - 2008 - Colnect 157978 - Beijing 2008 Olympics.jpeg
+    6	search	File:Stamp of India - 2008 - Colnect 157981 - Beijing 2008 Olympics.jpeg
+    5	search	File:Stamp of Moldova - 2008 - Colnect 91944 - Weightlifting.jpeg
+    5	search	File:Stamp of Moldova - 2008 - Colnect 199907 - Boxing.jpeg
+
+[42/65] prc-founding-1949   wants: Founding of the People's Republic
+  query: China 1949 founding People's Republic postage stamp
+    10	category:1949 stamps of China	File:The Northwest China Liberation Area 1949 Mi 76 stamp (75th anniversary of the UPU. Pigeons, globe and laurel wreath).jpg
+    10	category:1949 stamps of China	File:The Republic of China 1949 Mi 1072 stamp (75th anniversary of the UPU. Pigeons, globe and laurel wreath).jpg
+    8	category:1949 stamps of China	File:China 1949 - Non-Denominated Airmail stamp.jpg
+    8	category:1949 stamps of China	File:Stamp China 1949 1000 gold engr.jpg
+    8	category:1949 stamps of China	File:Stamp China 1949 4c on 100 silver ovpt.jpg
+    6	category:1949 stamps of China	File:Ji1, 4-1, Beijing Tiananmen, 1949.jpg
+    6	category:1949 stamps of China	File:Ji1, 4-2, Beijing Tiananmen, 1949.jpg
+    6	category:1949 stamps of China	File:Ji1, 4-3, Beijing Tiananmen, 1949.jpg
+
+[43/65] brazil-bull-eye-1843   wants: Bull's Eye
+  query: Brazil 1843 bull's eye postage stamp Olho de boi
+    7	search	File:Brazil 1843 Mi 3 Sc 3 stamp (Bull's eye).jpg
+    7	search	File:Brazil 1843 Mi 2 Sc 2 stamp (Bull's eye).jpg
+    7	search	File:Brazil 1843 Mi 1 Sc 1 stamp (Bull's eye).jpg
+    -4	search	File:Selos olho de boi no Museu Histórico Nacional (2024-10-26).jpg
+    -4	search	File:Ochsenaugen-Brasilien.jpg
+    -4	search	File:SeloOlhodeBoi.gif
+    -4	search	File:Uplowman, leat near Neddycott - geograph.org.uk - 151087.jpg
+    -4	search	File:St. Nicholas (serial) (1873) (14596363350).jpg
+
+[44/65] rio-carnival   wants: Rio Carnival
+  query: Brazil Rio Carnival postage stamp
+    6	search	File:Stamp of Brazil - 1967 - Colnect 263108 - Rio Carnival.jpeg
+    6	search	File:Stamp of Brazil - 1970 - Colnect 263877 - Rio de Janeiro Carnival.jpeg
+    6	search	File:Stamp of Brazil - 1970 - Colnect 263878 - Rio de Janeiro Carnival.jpeg
+    6	search	File:Stamp of Brazil - 1969 - Colnect 196441 - Carnival Dancers.jpeg
+    -1	search	File:Stamp of Brazil - 1969 - Colnect 263177 - Clowns.jpeg
+    -1	search	File:Stamp of Brazil - 1971 - Colnect 196443 - Int Congress.jpeg
+    -1	search	File:Stamp of Brazil - 1971 - Colnect 196444 - Mothers Day.jpeg
+    -1	search	File:Stamp of Brazil - 1969 - Colnect 196442 - Samba dancers.jpeg
+
+[45/65] brazil-1970-world-cup   wants: FIFA World Cup 1970
+  query: Brazil 1970 World Cup postage stamp
+    7	search	File:Stamp of Brazil - 1970 - Colnect 213992 - 9th FIFA s World cup - Mexico.jpeg
+    7	search	File:Stamp of Brazil - 1970 - Colnect 196473 - Hideraldo Luiz Bellini Brazil s captain with the Cup.jpeg
+    6	search	File:Stamp of Brazil - 1970 - Colnect 196474 - Football championships.jpeg
+    6	search	File:Stamp of Brazil - 1970 - Colnect 187515 - Football Championships Mexico City.jpeg
+    6	search	File:Stamp of Brazil - 1970 - Colnect 213993 - Silver jubilee of the Allies - victory.jpeg
+    6	search	File:Stamp of Ajman - 1970 - Colnect 839948 - Mané Garrincha Brazil Overprinted.jpeg
+    6	search	File:Stamp of Ajman - 1970 - Colnect 682545 - World Champions - Brazil.jpeg
+    6	search	File:Stamp of Ajman - 1970 - Colnect 323764 - Mané Garrincha 1933-1983 Brazil.jpeg
+
+[46/65] amazon-rainforest   wants: Amazon Rainforest
+  query: Brazil Amazon postage stamp wildlife
+    0	category:1990 stamps of Brazil	File:Correios museum museu, AC Central de Fortaleza, Ceará, Brazil 20 Selos.jpg
+    0	category:1990 stamps of Brazil	File:Correios museum museu, AC Central de Fortaleza, Ceará, Brazil 21 Selos.jpg
+
+[47/65] brasilia-1960   wants: Brasília
+  query: Brazil Brasilia 1960 postage stamp
+    6	search	File:Stamp of Brazil - 1960 - Colnect 189473 - Plan of Brasilia.jpeg
+    6	search	File:Stamp of Brazil - 1960 - Colnect 189483 - 1 - Volleyball and pillar of the Alvorada Palace in Brasilia.jpeg
+    5	search	File:Stamp of Brazil - 1972 - Colnect 187547 - Congress Building Brasilia.jpeg
+    3	search	File:Brasil Brasilia (21933148789).jpg
+    -1	search	File:Stamp of Brazil - 1960 - Colnect 189471 - Cathedral.jpeg
+    -1	search	File:Stamp of Brazil - 1960 - Colnect 189472 - Tower.jpeg
+    -1	search	File:Stamp of Brazil - 1960 - Colnect 189470 - Parliament buildings.jpeg
+    -1	search	File:Stamp of Brazil - 1960 - Colnect 790302 - Juscelino Kubitschek de Oliveira.jpeg
+
+[48/65] australia-kangaroo-1913   wants: Kangaroo and Map
+  query: Australia 1913 kangaroo map postage stamp
+    7	category:1913 stamps of Australia	File:Australia 1913 stamp kangaroo map.jpg
+    7	category:1913 stamps of Australia	File:Australia stamp 1913 2pd kangaroo.jpg
+    4	category:1913 stamps of Australia	File:1913 £2 black and red map and kangaroo stamp with lower sheet selvedge with JBC monogram ex Arthur Gray.jpg
+    0	category:1913 stamps of Australia	File:1913 1d Australia Fremantle Yv2 SG2.jpg
+    0	category:1913 stamps of Australia	File:1913 9d violet Australia Yv9 SG10.jpg
+    0	category:1913 stamps of Australia	File:1913 Half d Australia Haymarket SG1.jpg
+    0	category:1913 stamps of Australia	File:1913 Perth to Barton, Western Australia, Avis de Réception form.jpg
+    0	category:1913 stamps of Australia	File:1913ca half d Australia oval 54 Yv1 SG1.jpg
+
+[49/65] sydney-harbour-bridge-1932   wants: Sydney Harbour Bridge
+  query: Australia 1932 Sydney Harbour Bridge postage stamp
+    7	category:1932 stamps of Australia	File:Australia-Stamp-1932-SydneyHarbourBridge.jpg
+    0	category:1932 stamps of Australia	File:Australia-Stamp-1932-Lyrebird.jpg
+    -1	category:1932 stamps of Australia	File:Australianstamp 1552.jpg
+    -4	category:1932 stamps of Australia	File:Leadville N.S.W. - Postmark (PO closed 28-6-1991).jpg
+
+[50/65] melbourne-1956-olympics   wants: Melbourne 1956 Olympics
+  query: Australia 1956 Melbourne Olympic Games stamp
+    6	category:1956 stamps of Australia	File:Stamp 1956 Australia MiNr0266 pm B002.jpg
+    5	search	File:Stamp of Ajman - 1971 - Colnect 646439 - Melbourne - Laszlo Papp 1956.jpeg
+    -4	search	File:ROM 1979 MiNr3625 mt B002.jpg
+    -4	search	File:DOMREP 1957 MiNr0586 mt B003.png
+    -4	search	File:DOMREP 1957 MiNr0588 mt B002.png
+    -4	search	File:DOMREP 1957 MiNr0587 mt B001.png
+    -4	search	File:DOMREP 1957 MiNr0585 mt B002a.png
+    -4	search	File:DOMREP 1957 MiNr0590 mt B002.png
+
+[51/65] sydney-opera-house   wants: Sydney Opera House
+  query: Australia Sydney Opera House postage stamp
+    0	category:1973 stamps of Australia	File:Australia 1973 50 Cent Stamp St James' Church, Sydney AU 559.jpg
+    -1	category:1973 stamps of Australia	File:1973 Australia 30 Cent Stamp The Good Shepherd AU 555.jpg
+    -1	category:1973 stamps of Australia	File:Stamp 1973 Australia MiNr531I pm B002.jpg
+    -1	category:1973 stamps of Australia	File:Australia 1972 30 Cent Stamp National Development - Beef Roads AU 543.jpg
+    -1	category:1973 stamps of Australia	File:Australia 1973 1 Dollar Stamp Flinders $1 - perf 14.78 x 14.1 AU 401c.jpg
+    -1	category:1973 stamps of Australia	File:Australia 1973 20 Cent Stamp National Development - Shipping AU 541.jpg
+    -1	category:1973 stamps of Australia	File:Australia 1973 25 Cent Stamp National Development - Iron and Steel AU 542.jpg
+    -6	search	File:President George W. Bush and Prime Minister John Howard of Australia Talk as They Tour Sydney Harbor.jpg
+
+[52/65] italy-ceres-1861   wants: Ceres
+  query: Italy 1861 Ceres postage stamp
+
+[53/65] mona-lisa   wants: Mona Lisa
+  query: Italy Mona Lisa postage stamp
+
+[54/65] rome-1960-olympics   wants: Rome 1960 Olympics
+  query: Italy 1960 Rome Olympic Games stamp
+    6	search	File:Stamp of Ajman - 1971 - Colnect 496273 - Armin Hary Germany 100 meter sprint Rome 1960.jpeg
+    5	search	File:Stamp of Congo, Republic (Brazzaville) - 1960 - Colnect 512070 - African Darter Anhinga rufa.jpeg
+    3	search	File:ROM 1960 MiNrBl046 pm B002.jpg
+    -4	search	File:Stamp 1969 Togo MiNr0281 mt B002.jpg
+    -4	search	File:ROM 1979 MiNr3626 mt B002.jpg
+    -4	search	File:YAR 1971 MiNrBl0177 pm B002.jpg
+
+[55/65] colosseum   wants: Colosseum
+  query: Italy Colosseum postage stamp
+    5	search	File:Stamp of Ajman - 1972 - Colnect 835370 - Colosseum.jpeg
+
+[56/65] giuseppe-verdi   wants: Giuseppe Verdi
+  query: Italy Giuseppe Verdi postage stamp
+    5	search	File:Stamp of Albania - 2001 - Colnect 372093 - Giuseppe Verdi 1813-1901 Italian opera composer.jpeg
+    5	search	File:Stamp of Albania - 2001 - Colnect 372095 - Giuseppe Verdi 1813-1901 Italian opera composer.jpeg
+    5	search	File:Stamp of Albania - 2001 - Colnect 372097 - Vincenzo Bellini and Giuseppe Verdi.jpeg
+    5	search	File:Stamp of Albania - 2001 - Colnect 372098 - Vincenzo Bellini and Giuseppe Verdi.jpeg
+    3	search	File:The Soviet Union 1963 CPA 2879 stamp (German and Italian Composers. Giuseppe Verdi (1813-1901), an Italian composer best known for his operas).jpg
+    3	search	File:The Soviet Union 1963 CPA 2879 stamp (German and Italian Composers. Giuseppe Verdi (1813-1901), an Italian composer best known for his operas) cancelled.jpg
+    0	search	File:Guiseppe Verdi Postal stationery envelope Russia 2013 No 247.jpg
+
+[57/65] egypt-first-issue-1866   wants: Egypt's First Stamps
+  query: Egypt 1866 postage stamp first issue
+    7	category:1866 stamps of Egypt	File:1866 - 1 Para Egypt stamp.jpg
+    7	category:1866 stamps of Egypt	File:1866 - 10 (violette) Para Egypt stamp.jpg
+    7	category:1866 stamps of Egypt	File:1866 - 10 Para Egypt stamp.jpg
+    7	category:1866 stamps of Egypt	File:1866 - 2 Para Egypt stamp.jpg
+    7	category:1866 stamps of Egypt	File:1866 - 20 Para Egypt stamp.jpg
+    7	category:1866 stamps of Egypt	File:1866 - 5 (pink) Para Egypt stamp.jpg
+    7	category:1866 stamps of Egypt	File:1866 - 5 Para Egypt stamp.jpg
+    7	category:1866 stamps of Egypt	File:1866 - all Para Egypt stamp.jpg
+
+[58/65] pyramids-of-giza   wants: Pyramids of Giza
+  query: Egypt pyramids Giza postage stamp
+    4	search	File:An Air Transport Command plane flies over the pyramids in Egypt, 1943. - NARA - 531163 - restored.png
+    4	search	File:An Air Transport Command plane flies over the pyramids in Egypt. Loaded with urgent war supplies and materials, this... - NARA - 531163.tif
+    3	search	File:USAAF C-47 flies over the Giza pyramids 1943.JPEG
+    3	search	File:President and Mrs. Nixon with Mr. and Mrs. Anwar Sadat at the site of the great pyramids at Giza. - NARA - 194581.tif
+    0	search	File:President Richard Nixon and Pat Nixon with President Anwar Sadat and Jehan Sadat at the Giza Necropolis Pyramids, the Great Pyramid of Khufu is Visible in the Background - DPLA - dad1ee3cf3837f07bd721797141a0f82.jpg
+    -1	category:1956 stamps of Egypt	File:Nationalization of Suez canal 26-7-1956.jpg
+    -1	category:1956 stamps of Egypt	File:أظرف اليوم الاول 190.jpg
+    -2	search	File:Stamp of Ajman - 1967 - Colnect 321985 - Hurdles.jpeg
+
+[59/65] tutankhamun   wants: Tutankhamun
+  query: Egypt Tutankhamun postage stamp
+    0	category:1970 stamps of Egypt	File:Honorable Persons Stamps in Egypt 16.jpg
+    0	category:1970 stamps of Egypt	File:Postal-stamp-egypt-nasser-1965.jpg
+    -1	category:1970 stamps of Egypt	File:Phantom Fighters & destroyed Factory.jpg
+    -1	category:1970 stamps of Egypt	File:طابع فريد للجمهورية العربية المتحدة١٩٧٠.jpg
+
+[60/65] abu-simbel   wants: Abu Simbel
+  query: Egypt Abu Simbel postage stamp
+    -1	category:1964 stamps of Egypt	File:São Carlos - Selos 02.jpg
+    -1	category:1964 stamps of Egypt	File:أظرف اليوم الاول 01.jpg
+    -1	category:1964 stamps of Egypt	File:أظرف اليوم الاول 27.jpg
+    -4	search	File:STM 1168.jpg
+    -4	search	File:STM 1167.jpg
+
+[61/65] kenya-independence-1963   wants: Kenya Independence
+  query: Kenya 1963 independence postage stamp
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-cattle-ranching.jpeg
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-coffee-industry.jpeg
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-education.jpeg
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-fishing-industry.jpeg
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-harvesting-tea.jpeg
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-heavy-industry.jpeg
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-Jomo-Kenyatta-facing-Mount-Kenya.jpeg
+    7	category:1963 stamps of Kenya	File:Stamp-kenya1963-Mombasa-port.jpeg
+
+[62/65] kenya-lion   wants: African Lion
+  query: Kenya lion postage stamp
+    4	search	File:KenyaUgandaTanganyika-Stamp-1938-Royal Lion.jpg
+    -2	search	File:Stamp of Finland - 1981 - Colnect 830293 - 1 - Coat of Arms 1975 - Type II Booklet.jpeg
+    -2	search	File:Stamp of Finland - 1981 - Colnect 830295 - 1 - Coat of Arms 1975 - Type I Booklet.jpeg
+    -2	search	File:Stamp of Finland - 1980 - Colnect 830294 - 1 - Coat of Arms 1975 - Type II Booklet.jpeg
+    -4	search	File:BEA-KUT 1935 MiNr0033 pm B002.jpg
+    -4	search	File:BEA-KUT 1958 MiNr0097 pm B002.jpg
+    -4	search	File:BEA-KUT 1954 MiNr0095 pm B002.jpg
+    -5	search	File:Stamp of Finland - 1981 - Colnect 830293 - 2 - Coat of Arms 1975 - Type II Booklet - back.jpeg
+
+[63/65] kenya-elephant   wants: African Elephant
+  query: Kenya elephant postage stamp
+    5	search	File:Stamp of Katanga - 1960 - Colnect 161331 - African Elephant Loxodonta africana.jpeg
+    3	search	File:Baby elephant being fed at David Sheldrick Wildlife Trust.jpg
+    3	search	File:Baby elephants at David Sheldrick Wildlife Trust.jpg
+    3	search	File:Baby elephants at David Sheldrick Wildlife Trust 2.jpg
+    -4	search	File:BEA-KUT 1958 MiNr0094I pm B002.jpg
+    -7	search	File:Ford A9637 NLGRF photo contact sheet (1976-05-02)(Gerald Ford Library).jpg
+    -7	search	File:Ford A9651 NLGRF photo contact sheet (1976-05-05)(Gerald Ford Library).jpg
+    -7	search	File:Ford A9647 NLGRF photo contact sheet (1976-05-05)(Gerald Ford Library).jpg
+
+[64/65] kenya-rhinoceros   wants: Black Rhinoceros
+  query: Kenya rhinoceros postage stamp
+
+[65/65] kenya-1974-tourism   wants: Kenya Wildlife Tourism
+  query: Kenya wildlife postage stamp elephant zebra
+    9	category:1974 stamps of Kenya	File:Stamp of Kenya - 1974 - Colnect 232839 - Violet Globe Snail Janthina globosa.jpeg
+    9	category:1974 stamps of Kenya	File:Stamp of Kenya - 1974 - Colnect 497001 - Chambered Nautilus Nautilus pompilius.jpeg

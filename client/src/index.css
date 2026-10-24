@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-postal-paper text-gray-800 font-sans antialiased;
+}
+
+.stamp-frame {
+  @apply bg-white p-2 shadow-md border border-gray-200;
+  background-image: radial-gradient(circle, transparent 40%, rgba(0,0,0,0.03) 41%);
+}
+
+.stamp-frame img {
+  @apply w-full h-full object-cover;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+  background: #c41e3a;
+  border-radius: 4px;
+}

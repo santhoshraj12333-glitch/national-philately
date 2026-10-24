@@ -1,0 +1,25 @@
+{
+  "name": "national-philately-server",
+  "version": "1.0.0",
+  "description": "Backend for National Philately - MERN stack college FSD project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node seed.js",
+    "test": "node seed.js && node e2e-test.js",
+    "test:svg": "node svg-render-test.js",
+    "preview": "node generate-preview.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
